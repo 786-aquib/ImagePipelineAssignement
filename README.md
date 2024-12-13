@@ -9,7 +9,7 @@ This project is a React-based canvas editor that enables users to upload images,
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/786-aquib/ImagePipelineAssignement/tree/main
+   git clone https://github.com/786-aquib/ImagePipelineAssignement
    cd canvas-editor
 
    ```
@@ -39,7 +39,7 @@ Used for uploading and reading image files before setting them as the canvas bac
 ## Challenges Faced and Solutions
 
 1. **Learning Canvas Operations with Fabric.js**
-   **Challenge:\***
+   **Challenge:**
    This was my first experience working with fabric.js and canvas-based drawing tools. Understanding how to configure a drawing brush, manage objects, and set background images required some research and experimentation.
 
 **Solution:**
