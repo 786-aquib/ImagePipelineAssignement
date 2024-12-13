@@ -23,7 +23,7 @@ This project is a React-based canvas editor that enables users to upload images,
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/canvas-editor.git
+   git clone https://github.com/786-aquib/ImagePipelineAssignement/tree/main
    cd canvas-editor
 
    ```
