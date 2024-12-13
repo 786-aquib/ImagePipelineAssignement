@@ -7,20 +7,6 @@ This project is a React-based canvas editor that enables users to upload images,
 ## How to Run the Project Locally
 
 1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/786-aquib/ImagePipelineAssignement/tree/main
-   cd <file-path>
-   ```
-
-# Canvas Drawing Tool with Mask Generation
-
-This project is a React-based canvas editor that enables users to upload images, draw freehand, and generate mask images. It leverages the `fabric.js` library for managing the canvas and drawing operations. The mask generation feature is designed to create a binary mask (black background with white strokes) of user-drawn paths.
-
----
-
-## How to Run the Project Locally
-
-1. **Clone the Repository**
 
    ```bash
    git clone https://github.com/786-aquib/ImagePipelineAssignement/tree/main
